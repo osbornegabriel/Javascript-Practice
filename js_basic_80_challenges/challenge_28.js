@@ -14,6 +14,6 @@ var twoNumsInRange = function(x,y){
 //   return n > 49 && n < 100;
 // }
 
-// var twoNumsInRange = function (x,y){
+// var twoNumsInRange = function(x,y){
 //   return numInRange(x) && numInRange(y);
 // }
